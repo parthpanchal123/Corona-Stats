@@ -1,6 +1,13 @@
-# coronaapp
+# Corona-Stats : A simple app that displays corona-statistics from all over the world .
 
-A new Flutter application.
+It fetches data from [Novel Corid API](https://github.com/novelcovid/api) and displays it on the user interface .
+
+## Screenshots
+
+![Image 1](https://github.com/parthpanchal123/Corona-Stats/blob/master/Screenshots/Google%20Pixel%202%20(5).jpg)
+
+![Image 2](https://github.com/parthpanchal123/Corona-Stats/blob/master/Screenshots/Google%20Pixel%202%20(6).jpg)
+
 
 ## Getting Started
 
