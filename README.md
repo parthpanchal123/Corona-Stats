@@ -1,3 +1,8 @@
+![](https://img.shields.io/github/stars/parthpanchal123/Corona-Stats?style=social)<br>
+![](https://img.shields.io/github/issues/parthpanchal123/Corona-Stats?style=social)<br>
+![](https://img.shields.io/github/forks/parthpanchal123/Corona-Stats?style=social)
+<hr>
+
 # Corona-Stats : A simple app that displays corona-statistics from all over the world .
 
 It fetches data from [Novel Corid API](https://github.com/novelcovid/api) and displays it on the user interface .
