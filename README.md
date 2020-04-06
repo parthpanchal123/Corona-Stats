@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Awesome-Flutter-blue)<br>
 ![](https://img.shields.io/github/stars/parthpanchal123/Corona-Stats?style=social)<br>
 ![](https://img.shields.io/github/forks/parthpanchal123/Corona-Stats?style=social)<br>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
 <hr>
 
