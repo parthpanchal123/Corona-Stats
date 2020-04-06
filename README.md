@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Awesome-Flutter-blue)
+
 ![](https://img.shields.io/github/stars/parthpanchal123/Corona-Stats?style=social)
 ![](https://img.shields.io/github/forks/parthpanchal123/Corona-Stats?style=social)
 <hr>
