@@ -1,8 +1,8 @@
-![](https://img.shields.io/badge/Awesome-Flutter-blue)<br>
-![](https://img.shields.io/github/stars/parthpanchal123/Corona-Stats?style=social)<br>
-![](https://img.shields.io/github/forks/parthpanchal123/Corona-Stats?style=social)<br>
+![](https://img.shields.io/badge/Awesome-Flutter-blue)
+![](https://img.shields.io/github/stars/parthpanchal123/Corona-Stats?style=social)
+![](https://img.shields.io/github/forks/parthpanchal123/Corona-Stats?style=social)
 <hr>
-z
+
 # Corona-Stats : A simple app that displays corona-statistics from all over the world .
 
 It fetches data from [Novel Covid API](https://github.com/novelcovid/api) and displays it on the user interface .
