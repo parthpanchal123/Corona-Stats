@@ -6,7 +6,7 @@
 
 # Corona-Stats : A simple app that displays corona-statistics from all over the world .
 
-It fetches data from [Novel Corid API](https://github.com/novelcovid/api) and displays it on the user interface .
+It fetches data from [Novel Covid API](https://github.com/novelcovid/api) and displays it on the user interface .
 
 ## Screenshots
 
