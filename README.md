@@ -6,7 +6,9 @@
 
 # Corona-Stats : A simple app that displays corona-statistics from all over the world .
 
-It fetches data from [Novel Covid API](https://github.com/novelcovid/api) and displays it on the user interface .
+It fetches data from [Novel Covid API](https://github.com/novelcovid/api) and displays it on the user interface .<br>
+Demo APK link : https://bit.ly/Covid-19-Stats <br>
+Web-App link : https://bit.ly/Corona-tracker
 
 ## Screenshots
 
