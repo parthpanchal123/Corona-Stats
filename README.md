@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Awesome-Flutter-blue)<br>
 ![](https://img.shields.io/github/stars/parthpanchal123/Corona-Stats?style=social)<br>
-![](https://img.shields.io/github/issues/parthpanchal123/Corona-Stats?style=social)<br>
 ![](https://img.shields.io/github/forks/parthpanchal123/Corona-Stats?style=social)<br>
+![](https://img.shields.io/github/issues/parthpanchal123/Corona-Stats?style=social)<br>
 <hr>
 
 # Corona-Stats : A simple app that displays corona-statistics from all over the world .
