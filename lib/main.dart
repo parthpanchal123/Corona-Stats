@@ -47,7 +47,7 @@ class _MyAppState extends State<MyApp> {
           pr.dismiss();
         }
       });
-      final curr_name = country.getName();
+      final curr_name = country.name;
       _fetchdata(curr_name);
       setState(() {
         this.country = country;
@@ -87,7 +87,7 @@ class _MyAppState extends State<MyApp> {
           elevation: 0.0,
         ),
         body: FutureBuilder(
-          future: _api.getData(country.getName()),
+          future: _api.getData(country.name),
           builder: (context, snapshot) {
             if (snapshot.data == null &&
                 snapshot.connectionState == ConnectionState.active) {
@@ -128,7 +128,7 @@ class _MyAppState extends State<MyApp> {
                         padding: EdgeInsets.all(10.0),
                         children: <Widget>[
                           ListTile(
-                              subtitle: Text(country.getName().toUpperCase()),
+                              subtitle: Text(country.name.toUpperCase()),
                               title: Text(
                                 'Country',
                                 style: TextStyle(
